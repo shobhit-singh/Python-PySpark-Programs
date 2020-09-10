@@ -1,0 +1,9 @@
+[DB_CONN_DETAILS]
+hostname = localhost
+port = 1521
+servicename = orclpdb
+encoding = UTF-8
+[DB_CONN_CRED]
+username = devuser
+password = devuser
+

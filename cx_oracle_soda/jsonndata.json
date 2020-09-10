@@ -1,0 +1,16 @@
+{
+    "Aphabets": {
+        "A": {
+            "Fruit": "Apple",
+            "Object": "Aeroplane"
+        },
+        "B": {
+            "Fruit": "Banana",
+            "Object": "Ball"
+        }
+    },
+    "Numbers": {
+        "0": "Zero",
+        "1": "One"
+    }
+}
