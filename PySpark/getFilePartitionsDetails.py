@@ -2,7 +2,7 @@ from pyspark.sql import SparkSession, functions as f
 from pyspark.sql.functions import spark_partition_id
 
 spark = SparkSession.builder\
-    .appName("pySparkSCD1App")\
+    .appName("pySparkApp")\
     .getOrCreate()
     
 path = "/user/itv000197/customer.csv"
