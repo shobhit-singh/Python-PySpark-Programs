@@ -1,0 +1,31 @@
+[{
+   "USERID":1,
+   "Name":"Test",
+   "Mobile":12345678,
+   "Boolean":true,
+   "Urls":[
+      {
+         "URL":"www.google.com"
+      },
+      {
+         "URL":"www.facebook.com"
+      },
+      {
+         "URL":"www.linkedIn.com"
+      }
+   ]
+},
+{
+   "USERID":2,
+   "Name":"Test2",
+   "Mobile":12345678,
+   "Boolean":true,
+   "Urls":[
+      {
+         "URL":"www.apex.com"
+      },
+      {
+         "URL":"www.oracle.com"
+      }
+   ]
+}]
