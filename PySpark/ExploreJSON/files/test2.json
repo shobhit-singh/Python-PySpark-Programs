@@ -1,0 +1,68 @@
+{
+  "status": true,
+  "data": {
+    "title": "Top By Daily Interest",
+    "phones": [
+      {
+        "phone_name": "Samsung Galaxy A53 5G",
+        "slug": "samsung_galaxy_a53_5g-11268",
+        "hits": 30283,
+        "detail": "http://api-mobilespecs.azharimm.site/v2/samsung_galaxy_a53_5g-11268"
+      },
+      {
+        "phone_name": "Samsung Galaxy S22 Ultra 5G",
+        "slug": "samsung_galaxy_s22_ultra_5g-11251",
+        "hits": 23673,
+        "detail": "http://api-mobilespecs.azharimm.site/v2/samsung_galaxy_s22_ultra_5g-11251"
+      },
+      {
+        "phone_name": "Xiaomi Redmi Note 11",
+        "slug": "xiaomi_redmi_note_11-11336",
+        "hits": 22833,
+        "detail": "http://api-mobilespecs.azharimm.site/v2/xiaomi_redmi_note_11-11336"
+      },
+      {
+        "phone_name": "Samsung Galaxy A73 5G",
+        "slug": "samsung_galaxy_a73_5g-11257",
+        "hits": 20059,
+        "detail": "http://api-mobilespecs.azharimm.site/v2/samsung_galaxy_a73_5g-11257"
+      },
+      {
+        "phone_name": "Xiaomi Poco F4 GT",
+        "slug": "xiaomi_poco_f4_gt-11479",
+        "hits": 19082,
+        "detail": "http://api-mobilespecs.azharimm.site/v2/xiaomi_poco_f4_gt-11479"
+      },
+      {
+        "phone_name": "vivo X Note",
+        "slug": "vivo_x_note-11469",
+        "hits": 17431,
+        "detail": "http://api-mobilespecs.azharimm.site/v2/vivo_x_note-11469"
+      },
+      {
+        "phone_name": "Xiaomi 12 Pro",
+        "slug": "xiaomi_12_pro-11287",
+        "hits": 17203,
+        "detail": "http://api-mobilespecs.azharimm.site/v2/xiaomi_12_pro-11287"
+      },
+      {
+        "phone_name": "Apple iPhone 13 Pro Max",
+        "slug": "apple_iphone_13_pro_max-11089",
+        "hits": 17016,
+        "detail": "http://api-mobilespecs.azharimm.site/v2/apple_iphone_13_pro_max-11089"
+      },
+      {
+        "phone_name": "Samsung Galaxy A52s 5G",
+        "slug": "samsung_galaxy_a52s_5g-11039",
+        "hits": 15458,
+        "detail": "http://api-mobilespecs.azharimm.site/v2/samsung_galaxy_a52s_5g-11039"
+      },
+      {
+        "phone_name": "Samsung Galaxy A13",
+        "slug": "samsung_galaxy_a13-11402",
+        "hits": 14677,
+        "detail": "http://api-mobilespecs.azharimm.site/v2/samsung_galaxy_a13-11402"
+      }
+    ]
+  }
+}

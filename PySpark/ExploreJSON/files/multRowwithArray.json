@@ -1,0 +1,17 @@
+[ 
+    {
+   "USERID":1,
+   "Name":"John",
+   "Mobile":82345678,
+   "Flag":true,
+   "Some_array":[1,2,3,4,5]
+    },
+     {
+   "USERID":2,
+   "Name":"Sam",
+   "Mobile":72345678,
+   "Flag":false,
+   "Some_array":[11,12,3,14,5]
+    }
+
+]
