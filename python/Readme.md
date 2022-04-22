@@ -22,7 +22,10 @@ Trying to document my Python learning journey. See below Jupyter Notebooks & Scr
 
 #### Other
 + [Pandas](https://github.com/shobhit-singh/learning/tree/master/python/pandas)
++ [cx_oracle](https://github.com/shobhit-singh/learning/tree/master/python/cx_oracle)
 + [Nested Json Search](https://github.com/shobhit-singh/learning/blob/master/python/json/nestedJsonSearch.ipynb)
+
+
 
 
 ---
