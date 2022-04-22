@@ -21,14 +21,14 @@ Trying to document my Python learning journey. See below Jupyter Notebooks & Scr
 + [JSON Module](https://github.com/shobhit-singh/learning/blob/master/python/json/JsonModule.py)
 
 #### Other
-[Pandas](https://github.com/shobhit-singh/learning/tree/master/python/pandas)
-[cx_oracle](https://github.com/shobhit-singh/learning/tree/master/python/cx_oracle)
-[Nested Json Search](https://github.com/shobhit-singh/learning/blob/master/python/json/nestedJsonSearch.ipynb)
-[PythonTricks](https://github.com/shobhit-singh/learning/blob/master/python/others/pythonTricks.ipynb)
-[Flat Dict](https://github.com/shobhit-singh/learning/blob/master/python/others/flatDict.ipynb)
-[Pythion Email Script](https://github.com/shobhit-singh/learning/blob/master/python/others/email_script.py)
-[Binary Search](https://github.com/shobhit-singh/learning/blob/master/python/others/binarysearch.py)
-[Best Coding Practice](https://github.com/shobhit-singh/learning/blob/master/python/others/codingPractice.py)
+[Pandas](https://github.com/shobhit-singh/learning/tree/master/python/pandas) <br>
+[cx_oracle](https://github.com/shobhit-singh/learning/tree/master/python/cx_oracle) <br>
+[Nested Json Search](https://github.com/shobhit-singh/learning/blob/master/python/json/nestedJsonSearch.ipynb) <br>
+[PythonTricks](https://github.com/shobhit-singh/learning/blob/master/python/others/pythonTricks.ipynb) <br>
+[Flat Dict](https://github.com/shobhit-singh/learning/blob/master/python/others/flatDict.ipynb) <br>
+[Pythion Email Script](https://github.com/shobhit-singh/learning/blob/master/python/others/email_script.py) <br>
+[Binary Search](https://github.com/shobhit-singh/learning/blob/master/python/others/binarysearch.py) <br>
+[Best Coding Practice](https://github.com/shobhit-singh/learning/blob/master/python/others/codingPractice.py) <br>
 
 ---
 Thanks!
