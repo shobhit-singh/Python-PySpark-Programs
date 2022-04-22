@@ -18,9 +18,9 @@ Trying to document my Python learning journey. See below Jupyter Notebooks & Scr
 14. [List Comprehension](https://github.com/shobhit-singh/learning/blob/master/python/others/PythonListComprehension.ipynb)
 
 #### Built-In Modules
-+ [JSON Module](https://github.com/shobhit-singh/learning/blob/master/python/json/JsonModule.py)
+[JSON Module](https://github.com/shobhit-singh/learning/blob/master/python/json/JsonModule.py)
 
-#### Other
+#### Others
 [Pandas](https://github.com/shobhit-singh/learning/tree/master/python/pandas) <br>
 [cx_oracle](https://github.com/shobhit-singh/learning/tree/master/python/cx_oracle) <br>
 [Nested Json Search](https://github.com/shobhit-singh/learning/blob/master/python/json/nestedJsonSearch.ipynb) <br>
