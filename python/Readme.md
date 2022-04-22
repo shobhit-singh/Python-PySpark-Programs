@@ -26,6 +26,11 @@ Trying to document my Python learning journey. See below Jupyter Notebooks & Scr
 + [Nested Json Search](https://github.com/shobhit-singh/learning/blob/master/python/json/nestedJsonSearch.ipynb)
 
 
++ [PythonTricks](https://github.com/shobhit-singh/learning/blob/master/python/others/pythonTricks.ipynb)
++ [Flat Dict](https://github.com/shobhit-singh/learning/blob/master/python/others/flatDict.ipynb)
++ [Pythion Email Script](https://github.com/shobhit-singh/learning/blob/master/python/others/email_script.py)
++ [Binary Search](https://github.com/shobhit-singh/learning/blob/master/python/others/binarysearch.py)
++ [Best Coding Practice](https://github.com/shobhit-singh/learning/blob/master/python/others/codingPractice.py)
 
 
 ---
