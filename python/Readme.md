@@ -2,8 +2,8 @@
 
 Trying to document my Python learning journey. See below Jupyter Notebooks & Scripts.
 
-01. [Python Overview](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/others/PythonOverview.md)
-02. [Python Variables](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/datatypes/PythonVariables.ipynb)
+01. [Python Overview](https://github.com/shobhit-singh/learning/blob/master/python/others/PythonOverview.md)
+02. [Python Variables](https://github.com/shobhit-singh/learning/blob/master/python/datatypes/PythonNumber.ipynb)
 03. [Python Number](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/datatypes/PythonNumber.ipynb)
 04. [Python String](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/datatypes/PythonString.ipynb)
 05. [Python Lists](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/datatypes/PythonLists.ipynb)
