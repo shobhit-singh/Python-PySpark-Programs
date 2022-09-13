@@ -20,7 +20,7 @@ object Example1 {
 
     newdf3.printSchema()
 
-    newdf3.write.json("C:\\Users\\Shobh\\OneDrive\\Desktop\\newww.txt")
+    newdf3.write.json("C:\\Users\\Shobh\\OneDrive\\Desktop\\output.json")
 
   }
 }
