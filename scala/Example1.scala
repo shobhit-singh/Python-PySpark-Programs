@@ -10,7 +10,7 @@ object Example1 {
       .appName("learn")
       .getOrCreate()
 
-    val inputdf = spark.read.option("multiline","false").json("C:\\Users\\Shobh\\OneDrive\\Desktop\\source_file.txt")
+    val inputdf = spark.read.option("multiline","false").json("C:\\Users\\Shobh\\OneDrive\\Desktop\\source_file.json")
 
     val newdf1 = inputdf.withColumn("cust_detail_exploded",explode(col("cust_detail"))).drop("cust_detail")
 
