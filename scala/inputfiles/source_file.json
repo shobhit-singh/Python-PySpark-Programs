@@ -1,0 +1,3 @@
+{"emp_id":1,"emp_name":"John","cust_id":"c1","cust_detail":[{"name":"1abc","acc_no":"123","mobile":"1000"},{"name":"11abc","acc_no":"1123","mobile":"1112"},{"name":"111abc","acc_no":"11123","mobile":"11222"}]}
+{"emp_id":2,"emp_name":"Mark","cust_id":"c2","cust_detail":[{"name":"2abc","acc_no":"323","mobile":"2000"},{"name":"22abc","acc_no":"2223","mobile":"2112"},{"name":"222abc","acc_no":"2223","mobile":"22222"}]}
+{"emp_id":3,"emp_name":"Sam","cust_id":"c3","cust_detail":[{"name":"3abc","acc_no":"523","mobile":"3000"},{"name":"33abc","acc_no":"2223","mobile":"3113"},{"name":"222abc","acc_no":"3323","mobile":"33222"}]}
